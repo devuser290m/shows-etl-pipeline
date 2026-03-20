@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\raw",
+    "\\etl"
+  ],
+  "SelectedNode": "\\etl\\pipeline.py",
+  "PreviewInSolutionExplorer": false
+}
