@@ -1,0 +1,5 @@
+This is a small ETL project I worked on to practice data processing and analysis with Python. I wanted to explore real-world TV show data and see how I could clean, transform, and analyze it efficiently.
+In this project, I extracted data from a CSV file containing TV shows, transformed it by cleaning duplicates, handling missing values, fixing data types, and stripping unnecessary spaces from text fields. 
+Finally, I loaded the cleaned data into both a clean CSV and a SQLite database. Along the way, I calculated the top-rated shows, the most voted shows, and the average rating per genre.
+I experienced working with pandas for data manipulation, learned how to handle messy data, and practiced saving structured results in a database. 
+I tried to make the ETL pipeline modular and reusable, and through this small project, I learned how small scripts can automate the workflow from raw data to meaningful insights.
